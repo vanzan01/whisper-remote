@@ -1,6 +1,7 @@
 # Whisper Remote
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/vanzan01/whisper-remote/badge)](https://securityscorecards.dev/viewer/?uri=github.com/vanzan01/whisper-remote)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/11699/badge)](https://www.bestpractices.dev/projects/11699)
 
 ![Whisper Remote](assets/hero.png)
 
