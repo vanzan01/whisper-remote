@@ -5,7 +5,7 @@
 
 ![Whisper Remote](assets/hero.png)
 
-A tiny Windows utility that lets you trigger Windows Whisper (voice typing) and press Enter from your phone.
+A tiny Windows utility that lets you trigger Windows Flow (voice typing) and press Enter from your phone.
 
 ## Why?
 
